@@ -1,4 +1,5 @@
-// Create a class Book with three properties: name, author, and prize. Also, create a method called display, which prints out the values of the three properties.
+// Create a class Book with three properties: name, author, and prize.
+//Also, create a method called display, which prints out the values of the three properties.
 class Book {
   String? name;
   String? author;
